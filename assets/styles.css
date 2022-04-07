@@ -342,9 +342,8 @@
     display: flex;
     justify-content: flex-end;
     padding: var(--gutter-normal) 0;
+    background-size: cover;
   }
-  
-  
   .nav__items {
     display: flex;
     list-style: none;
@@ -416,6 +415,8 @@
     background-attachment: fixed;
     font-size: var(--font-size-normal);
   }
+
+
   
   .header__text {
     position: absolute;
@@ -517,6 +518,7 @@
     display: flex;
     justify-content: space-between;
     filter: invert(100%) grayscale(100%) opacity(.8);
+
   }
   
   .client__logo {
@@ -543,6 +545,8 @@
     display: flex;
     flex-direction: row-reverse;
     align-items: left;
+    background-image: url(../images/pinkgreenflowersartsy.jpg);
+    background-size: contain;
   
   }
   .avatar {
@@ -571,6 +575,31 @@
     max-width: var(--container-medium-width);
   }
   
+
+/* FORM */
+
+form textarea{
+  height:10em;
+  margin-bottom: 20px;
+}
+
+form input, form textarea{
+  border: 3px solid pink;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+textarea{
+  writing-mode: horizontal-tb;
+  letter-spacing: normal;
+  word-spacing: normal;
+}
+
+
+
+
+
   /* --------------------------------------- */
   /* ----- Footer ----- */
   /* --------------------------------------- */
@@ -615,5 +644,5 @@
   
   .footer{
     background-size: cover;
-    background-image: url(../images/pinkgreenflowersartsy.jpg);
+    background-image: url(../images/greenmountains.jpg);
   }
