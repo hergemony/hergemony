@@ -15,6 +15,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Portfolio
+
+** PORTFOLIO ⛈️ ☂️ 🏖️ **
+
+Hello!
+
+
+
+**SCREENSHOTS**
+1) Starting/landing page will have heading, picture
+
+![alt text](https://github.com/hergemony/raw=true)
+
+
+<embed src="images/movingflower.mp4" autostart="false" height="500" width="300" /></embed>
+
+
+**Javascript Features**
+
+
+
+**Github Repository Features**
+
+
+Github Profile Link => https://github.com/hergemony
+
+Deployed Application Link => https://hergemony.github.io/Portfolio/
 
 
 ©️ 2022 Hergemony ™️ | All rights reserved.
