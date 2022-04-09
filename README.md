@@ -41,7 +41,7 @@ Hello!
 
 Github Profile Link => https://github.com/hergemony
 
-Deployed Application Link => https://hergemony.github.io/Portfolio/
+Deployed Application Link => https://hergemony.github.io/hergemony/
 
 
 ©️ 2022 Hergemony ™️ | All rights reserved.
