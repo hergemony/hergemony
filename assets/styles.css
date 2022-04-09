@@ -1,26 +1,4 @@
-/* --------------------------------------- */
-/* ----- Basic Setup ----- */
-/* --------------------------------------- */
 
-@font-face {
-    font-family: 'Hk Grotesk';
-    font-style: normal;
-    font-weight: 400;
-    src: url('./fonts/HKGrotesk-Regular.woff') format('woff');
-  }
-  
-  @font-face {
-    font-family: 'Jost';
-    font-style: normal;
-    font-weight: 400;
-    src: url('./fonts/Jost-Regular.ttf') format('woff');
-  }
-  
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: inherit;
-  }
   
   :root {
     --font-size-small: 1.8rem;
@@ -29,15 +7,15 @@
     --font-size-medium-1: 3.6rem;
     --font-size-large: 5.5rem;
     --font-size-huge: 7.5rem;
-    --font-stack: 'Hk Grotesk', sans-serif;
+    --font-family: 'Poiret One', cursive;
   
     --line-height-normal: 1.7;
     --line-height-small: 1.2;
   
-    --black: #09603d;
+    --black: #09603D;
     --pink: pink;
     --white: white;
-    --white-1: white;
+    --white-1: azure;
   
   
     --container-max-width: 1180px;
@@ -55,7 +33,7 @@
   }
   
   html {
-    font-size: 62.5%; /* (16/10)*100 = 62.5% => 1rem = 10px */
+    font-size: 75.5%; /* (16/10)*100 = 62.5% => 1rem = 10px */
     box-sizing: border-box;
     scroll-behavior: smooth;
   }
@@ -74,6 +52,7 @@
     line-height: var(--line-height-normal);
     background: var(--black);
     overflow-x: hidden;
+    font-family: 'Poiret One', cursive;
   
   }
   
@@ -125,7 +104,7 @@
   h1,
   h2,
   h3 {
-    font-family: 'Jost', sans-serif;
+    font-family: 'Poiret One', cursive;
     font-weight: 400;
     line-height: var(--line-height-small);
     color: var(--white);
@@ -135,6 +114,8 @@
     line-height: 1;
     font-size: var(--font-size-huge);
     font-weight: 400;
+    font-family: 'Poiret One', cursive;
+
   }
   
   @media(max-width: 900px) {
@@ -193,7 +174,7 @@
   a {
     color: var(--white);
     font-weight: 400;
-    font-family: 'Jost', sans-serif;
+    font-family: 'Poiret One', cursive;
     transition: all .2s;
     outline: 2px solid transparent;
   }
@@ -343,6 +324,9 @@
     justify-content: flex-end;
     padding: var(--gutter-normal) 0;
     background-size: cover;
+    font-size: larger;
+    background-color: black;
+    color: white;
   }
   .nav__items {
     display: flex;
@@ -367,7 +351,7 @@
   
   @media(max-width: 300px) {
     .nav {
-        font-size: var(--font-size-small);
+        font-size: var(--font-size-medium-13.6rem);
     }
   }
   
@@ -413,10 +397,9 @@
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    font-size: var(--font-size-normal);
+    font-family: 'Poiret One', cursive;
+  
   }
-
-
   
   .header__text {
     position: absolute;
@@ -427,7 +410,7 @@
   .header__text p {
     margin: 1.5rem 0 3.5rem;
     max-width: var(--container-medium-width);
-    font-family: 'Jost', sans-serif;
+    font-family: 'Poiret One', cursive;
     font-size: var(--font-size-medium);
   }
   
@@ -517,13 +500,12 @@
   .client__logos {
     display: flex;
     justify-content: space-between;
-    filter: invert(100%) grayscale(100%) opacity(.8);
 
   }
   
   .client__logo {
-    height: 6.5rem;
-    max-width: 18rem;
+    height: 8.5rem;
+    max-width: 20rem;
   }
   
   @media(max-width: 1240px) {
@@ -545,8 +527,6 @@
     display: flex;
     flex-direction: row-reverse;
     align-items: left;
-    background-image: url(../images/pinkgreenflowersartsy.jpg);
-    background-size: contain;
   
   }
   .avatar {
@@ -596,10 +576,6 @@ textarea{
   word-spacing: normal;
 }
 
-
-
-
-
   /* --------------------------------------- */
   /* ----- Footer ----- */
   /* --------------------------------------- */
@@ -643,6 +619,7 @@ textarea{
   }
   
   .footer{
+    color: white;
     background-size: cover;
-    background-image: url(../images/greenmountains.jpg);
+    background-color: black;
   }
