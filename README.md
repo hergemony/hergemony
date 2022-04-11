@@ -29,8 +29,6 @@ Hello!
 ![alt text](https://github.com/hergemony/raw=true)
 
 
-<embed src="images/movingflower.mp4" autostart="false" height="500" width="300" /></embed>
-
 
 **Javascript Features**
 

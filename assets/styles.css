@@ -18,7 +18,7 @@
     --white-1: azure;
   
   
-    --container-max-width: 1180px;
+    --container-max-width: 1180px
     --container-normal-width: 800px;
     --container-medium-width: 700px; 
     --container-small-width: 500px;
@@ -526,7 +526,7 @@
   .about__content {
     display: flex;
     flex-direction: row-reverse;
-    align-items: left;
+    align-items: lef;
   
   }
   .avatar {
@@ -567,7 +567,7 @@ form input, form textarea{
   border: 3px solid pink;
   width: 100%;
   box-sizing: border-box;
-  padding: 10px;
+  padding: 15px;
 }
 
 textarea{
