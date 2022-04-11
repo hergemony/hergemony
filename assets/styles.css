@@ -12,11 +12,12 @@
     --line-height-normal: 1.7;
     --line-height-small: 1.2;
   
-    --black: #09603D;
+    --black:black; 
     --pink: pink;
     --white: white;
     --white-1: azure;
-  
+
+  /*#09603D;*/
   
     --container-max-width: 1180px
     --container-normal-width: 800px;
@@ -56,7 +57,10 @@
   
   }
   
-  
+  .title {
+    font-size:80px;
+    padding-top: 150px;
+  }
   
   .row {
     max-width: var(--container-max-width);
@@ -324,7 +328,7 @@
     justify-content: flex-end;
     padding: var(--gutter-normal) 0;
     background-size: cover;
-    font-size: larger;
+    font-size:large;
     background-color: black;
     color: white;
   }
@@ -523,12 +527,12 @@
   /* ----- About ----- */
   /* --------------------------------------- */
   
-  .about__content {
+  /*.about__content {
     display: flex;
     flex-direction: row-reverse;
-    align-items: lef;
+    align-items: left;
   
-  }
+  }*/
   .avatar {
     justify-content: left;
   }
