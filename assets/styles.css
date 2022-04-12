@@ -51,7 +51,7 @@
     font-weight: 400;
     color: var(--white-1);
     line-height: var(--line-height-normal);
-    background: var(--black);
+    background:black;
     overflow-x: hidden;
     font-family: 'Poiret One', cursive;
   
