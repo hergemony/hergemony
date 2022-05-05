@@ -1,5 +1,5 @@
 
-** PORTFOLIO ⛈️ ☂️ 🏖️ **
+** PORTFOLIO **
 
 Hello!
 
