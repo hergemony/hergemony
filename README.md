@@ -1,6 +1,4 @@
 
-** PORTFOLIO **
-
 Hello!
 
 Welcome to Hergemony's Portfolio. 
