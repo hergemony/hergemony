@@ -3,7 +3,7 @@ Digital Creator
 Hergemony™️ represents my work. 
 Elegant, feminine and irrevocably 'Her's'
 
-Deployed application link:
+Deployed Portfolio application link:
 https://hergemony.github.io/hergemony/
 
 
