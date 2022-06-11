@@ -18,12 +18,11 @@ hergemony@gmail.com
 Deployed Portfolio application link:
 https://hergemony.github.io/hergemony/
 
-:･ﾟ✧ *:･ﾟ✧ *:･ﾟ✧
-*:･ﾟ.✧:･ﾟ.✧ *:･. 
-┊　　┊　　┊　　┊ 
-┊　　┊　　┊　　❀ 
-┊　　┊　　✧ 
-┊　　❀ 
-✧
-
-©️ 2022 Hergemony ™️  | All rights reserved.
+.   ✫ 　 .  ˚  ✦  ·
+ .  +  · ·
+    ✹   .
+✦  ·
+ 　　　 .  +  ·
+     
+     
+     ©️ 2022 Hergemony ™️  | All rights reserved.
