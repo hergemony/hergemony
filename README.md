@@ -1,8 +1,12 @@
-*✲*´*。.❄¯*✲。❄。*¨`*✲´*。❄¨`*
-*╔═══════ ༺❀༻❤༺❀༻ ═══════╗*
-*♥*❄¯*✲❄♫♪♩░H░E░L░L░O░ ♫♫♪❄¯*✲❄
-*╚═══════ ༺❀༻❤༺❀༻ ═══════╝*
-*✲*´*。.❄¯*✲。❄。*¨`*✲´*。❄¨`*
+
+. 　。　　　　•　 　ﾟ　　。
+　　.　　　.　　　 　　.　
+。　　 。　.
+　.　　 。　 ඞ 。　 . •
+• .　 。　.
+　 　　。　　　　　　ﾟ　
+　　.　　　　　.
+,　　　　.　 .　　 . 。
 
 Welcome to the Digital Realm of
 Hergemony™️
@@ -14,11 +18,12 @@ hergemony@gmail.com
 Deployed Portfolio application link:
 https://hergemony.github.io/hergemony/
 
-┊ ┊ ┊ ┊ ┊
-┊ ┊ ✫ ˚♡ ⋆｡ ❀
-┊ ☪︎⋆
-⊹
-┊ . ˚
+:･ﾟ✧ *:･ﾟ✧ *:･ﾟ✧
+*:･ﾟ.✧:･ﾟ.✧ *:･. 
+┊　　┊　　┊　　┊ 
+┊　　┊　　┊　　❀ 
+┊　　┊　　✧ 
+┊　　❀ 
 ✧
 
 ©️ 2022 Hergemony ™️  | All rights reserved.
