@@ -44,6 +44,14 @@
         font-size: 52%;
     }
   }
+
+  @media screen and (max-width: 500px) {
+
+    .mountain-img{
+      display: none;
+    }
+    
+  }
   
   body {
     font-size: var(--font-size-small);
@@ -58,7 +66,7 @@
   }
   
   .title {
-    font-size:80px;
+    font-size:70px;
     padding-top: 150px;
   }
   
@@ -396,7 +404,7 @@
   
   .header {
     background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('./images/header.jpg');
+        url('./images/greenmountains.jpg');
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -406,16 +414,17 @@
   }
   
   .header__text {
-    position: absolute;
     top: 50%;
     transform: translateY(-50%);
   }
   
   .header__text p {
     margin: 1.5rem 0 3.5rem;
-    max-width: var(--container-medium-width);
+    max-width: 100%;
+    max-height: 100%;
+    /* max-width: var(--container-medium-width); */
     font-family: 'Poiret One', cursive;
-    font-size: var(--font-size-medium);
+    /* font-size: var(--font-size-medium); */
   }
   
   @media(max-width: 500px) {
@@ -424,7 +433,7 @@
     }
   
     .header__text p {
-        transform: scale(.8);
+        /* transform: scale(.8); */
     }
   }
   
@@ -453,7 +462,9 @@
         margin-bottom: 20rem;
     }
   }
-  
+  .work__image5{
+    size-adjust: var(--container-small-width);
+  }
   .work__links {
     display: flex;
     align-items: center;
@@ -481,7 +492,7 @@
   }
   
   .work__image-box {
-    margin-bottom: var(--gutter-normal);
+    margin-bottom: var(--gutter-small);
   }
   
   @media(min-width: 901px) {
