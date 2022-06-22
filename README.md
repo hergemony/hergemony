@@ -8,7 +8,7 @@
 　　.　　　　　.
 ,　　　　.　 .　　 . 。
 
-Welcome to the Digital Realm of
+Welcome fellow Earthlings to the Digital Realm of
 Hergemony™️
 
 Feel free to look around and email me with any queries:
@@ -21,7 +21,7 @@ https://hergemony.github.io/hergemony/
 .   ✫ 　 .  ˚  ✦  ·
  .  +  · ·
     ✹   .
-✦  ·
+✦  · More to come soon! * .
  　　　 .  +  ·
      
      
