@@ -8,7 +8,7 @@
 　　.　　　　　.
 ,　　　　.　 .　　 . 。
 
-Welcome fellow Earthlings to the Digital Realm of
+Welcome to the Digital Realm of
 Hergemony™️
 
 Feel free to look around and email me with any queries:
