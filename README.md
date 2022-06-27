@@ -27,7 +27,7 @@ https://hergemony.github.io/hergemony/
 .   ✫ 　 .  ˚  ✦  ·
  .  +  · ·
     ✹   .
-✦  ·
+✦  · More to come soon! * .
  　　　 .  +  ·
      
      
