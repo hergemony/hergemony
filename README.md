@@ -8,10 +8,8 @@
 　　.　　　　　.
 ,　　　　.　 .　　 . 。
 
-Welcome to the Digital Realm of
+Welcome to The Machine
 Hergemony™️
-
-![alt text](https://github.com/hergemony/hergemony/blob/main/images/Screen%20Shot%202022-06-27%20at%207.16.19%20pm.png?raw=true)
 
 
 Deployed Portfolio application link:
@@ -24,4 +22,4 @@ https://hergemony.github.io/hergemony/
  　　　 .  +  ·
      
      
-     ©️ 2022 Hergemony ™️  | All rights reserved.
+     ©️ 2023 The Machine Hergemony ™️  | All rights reserved.
