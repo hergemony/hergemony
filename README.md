@@ -8,12 +8,8 @@
 　　.　　　　　.
 ,　　　　.　 .　　 . 。
 
-Welcome to The Machine
+Welcome to
 Hergemony™️
-
-
-Deployed Portfolio application link:
-https://hergemony.github.io/hergemony/
 
 .   ✫ 　 .  ˚  ✦  ·
  .  +  · ·
@@ -22,4 +18,4 @@ https://hergemony.github.io/hergemony/
  　　　 .  +  ·
      
      
-     ©️ 2023 The Machine Hergemony ™️  | All rights reserved.
+     ©️ 2023 Hergemony ™️  | All rights reserved.
