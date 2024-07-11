@@ -18,4 +18,4 @@ Hergemony™️
  　　　 .  +  ·
      
      
-     ©️ 2023 Hergemony ™️  | All rights reserved.
+     ©️ 2024 Hergemony ™️  | All rights reserved.
