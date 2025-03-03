@@ -13,9 +13,9 @@ Hergemony™️
 
 .   ✫ 　 .  ˚  ✦  ·
  .  +  · ·
- Be courageous
- Have fun
- Enjoy life
+ Be courageous! 
+ Have fun! 
+ Enjoy life!
 
  I use coding as an outlet for my creativity
     ✹   .
